@@ -1,3 +1,4 @@
+-- Hanya sebagai contoh saja
 CREATE TABLE `produk` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `kode` varchar(50) NOT NULL,
